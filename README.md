@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![](https://visitcount.itsvg.in/api?id=danielmera2912&icon=4&color=12)](https://visitcount.itsvg.in)
 <!--
 **danielmera2912/danielmera2912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
