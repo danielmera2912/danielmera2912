@@ -1,9 +1,9 @@
 # 👋 ¡Hola! 👋
 
-¡Bienvenido a mi perfil de Github! Soy un estudiante de desarrollo de aplicaciones web que disfruta creando proyectos y explorando nuevas tecnologías.
+¡Bienvenido a mi perfil de Github! Soy un programador que disfruta creando proyectos y explorando nuevas tecnologías.
 
 ## Sobre mí
-- Estudiante de desarrollo de aplicaciones web.
+- Programador.
 
 ## Web
 https://danielmera2912.github.io/
